@@ -1,11 +1,13 @@
-# DecimalToDivisionForm1.0Easily convert decimal numbers to numerator upon denominator form or division form!
+# MouseRetracer
+
+Easily retrace mouse movements or draw in a single go!
 
 Fully compiled and built application executable!
 
-Just download ALL the files and run the application from dist\dec2div\dec2div.exe
+Just download ALL the files and run the RetracerApp.bat
 
-Type in the CLI application window to convert your numbers!
+Type in the CLI application window to do the things that this application can.
 
-After you're done, ALL the details of the numbers and the results will be stored in a text file called "dec2divresults.txt" in C:/ local disk.
+Source file available in the main folder itself (just for anyone interested).
 
 Contact me @RektAlter or ankandas2222@gmail.com for any queries regarding this project.
